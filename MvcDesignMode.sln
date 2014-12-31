@@ -1,9 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcDesignMode", "MvcDesignMode\MvcDesignMode.csproj", "{7F7512C5-C5BE-4F01-BF4E-BB034161FBD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleMvcApp", "ExampleMvcApp\ExampleMvcApp.csproj", "{DF84BB7F-3801-42F6-B83A-EC959205EFD5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleMvcApp", "ExampleMvcApp\ExampleMvcApp.csproj", "{CE3C4AEA-DCDA-4461-BF04-B504DA6D444F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +17,10 @@ Global
 		{7F7512C5-C5BE-4F01-BF4E-BB034161FBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F7512C5-C5BE-4F01-BF4E-BB034161FBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F7512C5-C5BE-4F01-BF4E-BB034161FBD0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DF84BB7F-3801-42F6-B83A-EC959205EFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DF84BB7F-3801-42F6-B83A-EC959205EFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DF84BB7F-3801-42F6-B83A-EC959205EFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DF84BB7F-3801-42F6-B83A-EC959205EFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3C4AEA-DCDA-4461-BF04-B504DA6D444F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3C4AEA-DCDA-4461-BF04-B504DA6D444F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3C4AEA-DCDA-4461-BF04-B504DA6D444F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3C4AEA-DCDA-4461-BF04-B504DA6D444F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

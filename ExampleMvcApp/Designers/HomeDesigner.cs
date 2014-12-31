@@ -10,6 +10,7 @@ namespace ExampleMvcApp.Designers
 
         public ActionResult Index()
         {
+            ViewBag.Title = "Page title";
             return View();
         }
 
